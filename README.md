@@ -11,7 +11,3 @@
 在线demo:https://huggingface.co/spaces/Nogizaka46/Nogizaka46-sovits-4
 
 Tg交流群：https://t.me/+vP8NK1NMLiYzMDJl
-
-注意:如果使用了本demo的模型合成，请标注来源
-
-模型提供:https://github.com/3110asuka/NGZ-sovits-4
