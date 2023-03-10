@@ -8,6 +8,6 @@
 ## 模型简介
 为了推广乃木坂46成员的项目：
 相关教程与本地转换在TG群，本模型禁止任何商业行为。所制作音频不要在公网公开！
-在线demo:https://huggingface.co/spaces/Nogizaka46/Nogizaka46-sovits-4
+在线demo:https://huggingface.co/spaces/Nogizaka46/Nogizaka46-so/
 
 Tg交流群：https://t.me/+vP8NK1NMLiYzMDJl
