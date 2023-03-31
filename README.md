@@ -14,4 +14,4 @@
 
 相关教程与本地转换整合包也在TG群
 转换长音频请本地进行转换，本模型禁止任何商业行为
-如用此模型制作音频请标注来源：github.com/3110asuka/NGZ-sovits-4
+如用此模型制作音频请标注来源：github.com/3110asuka/NGZ-sovits-4 或 https://huggingface.co/spaces/Nogizaka46/Nogizaka46-so
