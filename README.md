@@ -6,7 +6,7 @@
 3. 由输入源造成的侵权问题需自行承担全部责任和一切后果。使用其他商用歌声合成软件作为输入源时，请确保遵守该软件的使用条例，注意，许多歌声合成引擎使用条例中明确指明不可用于输入源进行转换！
 
 ## 模型简介
-最新在线Demo地址:https://huggingface.co/spaces/Nogizaka46/Nogizaka46-so
+最新在线转换演示:https://huggingface.co/spaces/Nogizaka46/Nogizaka46-so
 
 
 为了推广乃木坂46成员的项目：
