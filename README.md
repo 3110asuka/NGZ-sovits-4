@@ -9,4 +9,4 @@
 
 现在起b站上传视频不用标注原项目:https://github.com/svc-develop-team/so-vits-svc/tree/4.0地址。原项目已采用bsd协议
 
-如用此模型制作音频请标注来源：github.com/3110asuka/NGZ-sovits-4 或 https://sovits4-dev.nogizaka46.cc
+如用此模型制作音频请标注来源：github.com/3110asuka/NGZ-sovits-4 或 https://sovits4.nogizaka46.cc
